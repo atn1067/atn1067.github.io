@@ -22,7 +22,7 @@ title: IT Ethics - Alexander Nguyen
 email: anguy40@gmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   IT304 Assignment 4 by Alexander Nguyen. Created using Jekyll and GitHub Pages.
-url: "atn1067.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://atn1067.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "atn1067.github.io"
 github_username:  atn1067
 
